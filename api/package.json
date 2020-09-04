@@ -52,7 +52,7 @@
     "highlight.js": "9.15.8",
     "isomorphic-unfetch": "3.0.0",
     "lodash": "4.17.11",
-    "marked": "0.6.3",
+    "marked": "0.7.0",
     "mongoose": "5.6.2",
     "passport": "0.4.0",
     "passport-google-oauth": "2.0.0",

@@ -11,7 +11,7 @@
     "@octokit/rest": "^16.25.0",
     "body-parser": "^1.18.3",
     "email-addresses": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "he": "^1.2.0",
     "highlight.js": "^9.15.6",
     "lodash": "^4.17.11",
